@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 206" width="560" height="206">
+<rect x="0.5" y="0.5" width="559" height="205" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="559" height="36" rx="8" fill="#161b22"/>
+<rect x="0.5" y="28" width="559" height="8" fill="#161b22"/>
+<circle cx="20" cy="18.0" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="18.0" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="18.0" r="5" fill="#27c93f"/>
+<text x="280.0" y="23.0" text-anchor="middle" fill="#c9d1d9" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="12">akshay@github ~ neofetch</text>
+<style>.row text { font-family: Menlo, Consolas, 'Courier New', monospace; font-size: 14px; }</style>
+<g class="row">
+<text x="24" y="56" fill="#7ee787" font-weight="bold">Now:</text>
+<text x="133.2" y="56" fill="#c9d1d9">M.S. CS @ George Mason Univ. (Dec 2026)</text>
+</g>
+<g class="row">
+<text x="24" y="82" fill="#7ee787" font-weight="bold">Prev:</text>
+<text x="133.2" y="82" fill="#c9d1d9">B.Tech, Anurag University</text>
+</g>
+<g class="row">
+<text x="24" y="108" fill="#7ee787" font-weight="bold">Stack:</text>
+<text x="133.2" y="108" fill="#c9d1d9">Python / Java / FastAPI / LangGraph / Docker</text>
+</g>
+<g class="row">
+<text x="24" y="134" fill="#7ee787" font-weight="bold">Highlights:</text>
+<text x="133.2" y="134" fill="#c9d1d9">Auto Healing API - autonomous SRE agent</text>
+</g>
+<g class="row">
+<text x="133.2" y="160" fill="#c9d1d9">Ticket Triage - full-stack RAG platform</text>
+</g>
+</svg>
