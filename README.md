@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Akshay%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=MS+Computer+Science+%40+George+Mason+University;Building+AI%2FML+%2B+Full-Stack+Systems;LangGraph+%7C+RAG+%7C+Autonomous+Agents;Always+shipping+something+new" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Akshay%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 <a href="https://akshayportfolio-jet.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=M.S.+Computer+Science+%40+George+Mason+University;Building+AI%2FML+%2B+Full-Stack+Systems;LangGraph+%7C+RAG+%7C+Autonomous+Agents;Always+shipping+something+new" />
