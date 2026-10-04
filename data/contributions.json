@@ -1,42 +1,7 @@
 {
   "username": "Akshayreddy25",
-  "fetched_at": "2026-10-03T11:37:02.339842Z",
+  "fetched_at": "2026-10-04T12:18:34.029435Z",
   "days": [
-    {
-      "date": "2025-09-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-29",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-30",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-02",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-04",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-05",
       "count": 0,
@@ -1854,22 +1819,26 @@
     },
     {
       "date": "2026-10-03",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-04",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total_contributions": 101,
+    "total_contributions": 100,
     "current_streak": 0,
-    "longest_streak": 49,
+    "longest_streak": 50,
     "best_day": {
       "date": "2026-08-15",
       "count": 9,
       "level": 4
     },
     "monthly_totals": {
-      "2025-09": 0,
-      "2025-10": 2,
+      "2025-10": 0,
       "2025-11": 1,
       "2025-12": 0,
       "2026-01": 0,
@@ -1881,7 +1850,7 @@
       "2026-07": 21,
       "2026-08": 25,
       "2026-09": 33,
-      "2026-10": 2
+      "2026-10": 3
     }
   }
 }
